@@ -1,6 +1,10 @@
 const ChatFooter = () => {
   return (
-    <h2>ChatFooter funcionando</h2>
+    <footer>
+      <textarea type="text" placeholder=" Enter text here..." className="text" />
+      <button>🚀</button>
+    </footer>
+
   )
 }
 
